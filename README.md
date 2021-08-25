@@ -1,6 +1,5 @@
-##React with Tailwindcss boilerplate
+# React with Tailwindcss boilerplate
 ### This is a bolierplate created using Create-React-App and Tailwindcss
-
 ## Available Scripts
 
 In the project directory, you can run:
