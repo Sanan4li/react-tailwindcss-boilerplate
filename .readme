@@ -1,0 +1,13 @@
+#React with Tailwindcss boilerplate
+### This is a bolierplate created using Create-React-App and Tailwindcss
+
+## How to use ?
+### use the following commands 
+## npm start
+### run the project
+
+## npm run build-css
+### to build css file from Tailwindcss
+
+## npm run watch-css
+### to enable JIT mode that will watch for changes.
